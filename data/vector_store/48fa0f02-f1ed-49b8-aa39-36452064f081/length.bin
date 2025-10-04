@@ -1,0 +1,5 @@
+term vectors, ignoring term order. Term weighting methods like tf-idf [9, 314, 319] and
+BM25 models [315, 316] were introduced to assign weights based on term importance
+within and across corpora, while inverted indexes [ 513] improved retrieval efficiency
+by organizing corpora into term-document ID pairs. Statistical language modeling [452]
+, Vol. 1, No. 1, Article . Publication date: April 2018.
